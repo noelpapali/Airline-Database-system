@@ -1,7 +1,7 @@
 # Airline Database Management System ✈️
 
 ## Introduction  
-This project involves the design and development of a **relational database system** for an airline using **SQL**. The system is intended to handle a wide range of core operations required for airline management, including, but not limited to—managing flight bookings, passenger details, aircraft information, and flight schedules.  
+This project involves the design and development of a **relational database system** for an airline using **SQL**. The system is intended to handle a wide range of core operations required for airline management, including, but not limited to managing flight bookings, passenger details, aircraft information, and flight schedules.  
 
 ## Features  
 - The system consists of **20+ relational tables** that comprehensively capture the various entities and relationships involved in an airline operation.  
